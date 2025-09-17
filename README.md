@@ -6,7 +6,7 @@
 
 Our primary stakeholders include soccer clubs, coaching staff, trainers, and sports analysts, who are individuals that can benefit from evidence-based tools to inform decisions related to injured players. By providing a model that predicts whether a player’s rating is likely to increase, decrease, or remain stable following injury, our work offers a data-driven layer of insight into post-injury performance recovery.
 
-With Jade Matrone, Shivani Pandeti, and Lauren Gracias, we approached this need by training machine learning models on a dataset that combines detailed injury histories with official FIFA ratings from the most recent seasons. While our solution is not exhaustive, due to limitations in historical data availability and the subjective nature of FIFA scores, it represents a meaningful step toward quantifying the impact of injuries on player value and developing more informed, data-supported approaches to player evaluation.</p>
+With Jade Matrone, Nikki Shimao, and Lauren Gracias, we approached this need by training machine learning models on a dataset that combines detailed injury histories with official FIFA ratings from the most recent seasons. While our solution is not exhaustive, due to limitations in historical data availability and the subjective nature of FIFA scores, it represents a meaningful step toward quantifying the impact of injuries on player value and developing more informed, data-supported approaches to player evaluation.</p>
 
 <h2>Literature Review</h2>
 
